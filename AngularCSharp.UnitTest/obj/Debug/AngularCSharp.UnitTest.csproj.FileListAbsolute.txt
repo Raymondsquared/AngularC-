@@ -1,0 +1,12 @@
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\bin\Debug\AngularCSharp.UnitTest.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\bin\Debug\AngularCSharp.UnitTest.pdb
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\obj\Debug\AngularCSharp.UnitTest.csprojResolveAssemblyReference.cache
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\obj\Debug\AngularCSharp.UnitTest.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\obj\Debug\AngularCSharp.UnitTest.pdb
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\bin\Debug\AngularCSharp.Core.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\bin\Debug\AngularCSharp.Core.pdb
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\bin\Debug\Ninject.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\bin\Debug\Ninject.xml
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.UnitTest\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,11 @@
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\bin\Debug\AngularCSharp.Core.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\bin\Debug\AngularCSharp.Core.pdb
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\obj\Debug\AngularCSharp.Core.csprojResolveAssemblyReference.cache
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\obj\Debug\AngularCSharp.Core.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\obj\Debug\AngularCSharp.Core.pdb
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\bin\Debug\Ninject.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\bin\Debug\Ninject.Web.Common.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\bin\Debug\Ninject.xml
+C:\Developements\Angular C# WebAPI\AngularCSharp.Core\bin\Debug\Ninject.Web.Common.xml

@@ -1,0 +1,23 @@
+{
+  "name": "angular-csharp-webapi",
+  "version": "1.0.0",
+  "description": "Angular - C# webAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Raymond",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "file-loader": "^0.8.5",
+    "node-sass": "^3.6.0",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.0"
+  },
+  "dependencies": {
+    "angular": "^1.5.5",
+    "materialize-css": "^0.97.6"
+  }
+}

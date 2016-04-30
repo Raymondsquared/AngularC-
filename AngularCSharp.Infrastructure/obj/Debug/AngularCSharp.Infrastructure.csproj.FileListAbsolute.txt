@@ -1,0 +1,13 @@
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\AngularCSharp.Infrastructure.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\AngularCSharp.Infrastructure.pdb
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\obj\Debug\AngularCSharp.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\obj\Debug\AngularCSharp.Infrastructure.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\obj\Debug\AngularCSharp.Infrastructure.pdb
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\AngularCSharp.Core.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\AngularCSharp.Core.pdb
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\Ninject.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\Ninject.Web.Common.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\Ninject.xml
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\Ninject.Web.Common.xml
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Developements\Angular C# WebAPI\AngularCSharp.Infrastructure\bin\Debug\Newtonsoft.Json.xml

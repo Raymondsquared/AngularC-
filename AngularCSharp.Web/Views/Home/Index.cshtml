@@ -1,0 +1,49 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Raymond</title>
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
+
+    <script type="text/javascript" src="/dist/Scripts/libraries.js"></script>
+
+</head>
+<body>
+
+<div ng-app="AngularCSharp" ng-controller="MainController as vm" class="container">
+
+    <nav>
+        <div class="nav-wrapper">
+            <a href="#" class="brand-logo">Raymond</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="#">Menu</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <h3>Cats</h3>    
+
+    <div ng-repeat="obj in vm.genderAndCats">        
+        <ul class="collection with-header">
+            <li class="collection-header"><h4>{{obj.Gender}}</h4></li>
+
+            <li ng-repeat="pet in obj.Pets" class="collection-item">
+                {{pet.name}}
+           </li>
+        </ul>
+    </div>
+</div>
+
+<script type="text/javascript" src="/dist/Scripts/app.js"></script>
+</body>
+</html>
