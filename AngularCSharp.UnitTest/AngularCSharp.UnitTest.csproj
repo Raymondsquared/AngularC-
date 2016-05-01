@@ -50,13 +50,18 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest.cs" />
+    <Compile Include="PetsTest.cs" />
+    <Compile Include="PeopleTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AngularCSharp.Core\AngularCSharp.Core.csproj">
       <Project>{208c04f6-2c70-4008-9698-11a31881dd0f}</Project>
       <Name>AngularCSharp.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AngularCSharp.Infrastructure\AngularCSharp.Infrastructure.csproj">
+      <Project>{ff4adea7-4c79-4750-be59-f46fa6210577}</Project>
+      <Name>AngularCSharp.Infrastructure</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
